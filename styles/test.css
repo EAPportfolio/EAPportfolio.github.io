@@ -1,0 +1,103 @@
+body {
+    background-image: url(pexels-moose-photos-1037998.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+	color: #000000;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bold;
+    font-size: large;
+    background-position: 0% 0%;
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: #000000;
+}
+h2 {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+section {
+    background-color: rgba(255,255,255,0.80);
+    border-radius: 15px;
+    width: 50%;
+    margin-left: 22%;
+    margin-top: 0%;
+    margin-right: 20%;
+    margin-bottom: 0%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: #000000;
+    -webkit-box-shadow: 10px 10px rgba(83,83,83,0.75);
+    box-shadow: 4px 4px rgba(83,83,83,0.55);
+}
+
+
+footer {
+    font-size: x-small;
+    text-align: center;
+    margin-top: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    padding-top: 2px;
+    color: #000000;
+}
+.container {
+    text-align: center;
+}
+h3 {
+    padding-bottom: 0px;
+}
+.square {
+    padding-left: 45px;
+    margin-left: 15px;
+}
+.topbar {
+    text-align: center;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border-radius: 15px;
+    color: #CFCFCF;
+    font-size: x-large;
+}
+.topbar #bwelcome {
+    color: #000000;
+    font-variant: normal;
+}
+.topbar #babout {
+    color: #000000;
+    font-variant: normal;
+}
+.topbar #bprojects {
+    color: #000000;
+    font-variant: normal;
+}
+.bottombar {
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-size: x-large;
+    color: undefined;
+}
+
+
+.bottombar #back-to-top {
+    color: #000000;
+}
+div h3 a {
+    color: rgba(0,0,0,1.00);
+}
